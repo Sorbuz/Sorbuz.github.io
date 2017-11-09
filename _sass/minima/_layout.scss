@@ -18,6 +18,7 @@
   margin-bottom: 0;
   float: left;
   font-family: Oswald;
+  font-size: 45px;
 
   &,
   &:visited {
@@ -218,6 +219,7 @@
   letter-spacing: -1px;
   line-height: 1;
   font-family: Rozha One;
+  font-size: 30px;
 
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);
