@@ -22,33 +22,3 @@ En sajt där inlogg behövs och som interagerar mer med användaren, t. ex.
 en bettingsajt, tror jag inte ens är möjlig att utföra med ett sådant här verktyg.
 
 _Albin Wejros_
-
-n
-
-n
-
-n
-
-n
-
-n
-
-n
-
-n
-
-n
-
-n
-
-n
-
-n
-
-n
-
-n
-
-n
-
-n
