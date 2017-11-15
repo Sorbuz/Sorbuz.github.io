@@ -1,0 +1,10 @@
+/* TEAM */
+Author: Albin Wejros
+Twitter: awejros
+From: Norrköping, Sweden
+
+/* SITE */
+Last update: 2017-11-14
+Standards: HTML5, CSS3
+Components: Jekyll, SASS
+IDE: Visual Studio Code
